@@ -1,8 +1,13 @@
 # Projects
  Diffirent types of Python analysis
 # In this project we provided A-B test in ecomm:
-1)Подобрал гипотезу
-2)Обработал данные
+## To do this i have managed such things as 
+
+- 1)Coming up with hypothesis
+- 2)Data cultivation
+- 3)Checked how our traffic is being separated
+- 4)Builded cummulative sum,average bill,conversion of two groups
+- 5)
 3)Проверил деление трафика по группам
 4)Построил графики кумулятивной выручки, среднего чека, конверсий 2-ух групп
 5)Изучил относительный прирост конверсии
