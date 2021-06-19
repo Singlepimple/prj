@@ -5,7 +5,9 @@ In this repository i  keep projects completed in [Yandex.Praktikum](https://prak
 All projects are presented in the form of iPython Notebooks and readme markdown files.
 
 
+
+| First Header  | Second Header | 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
