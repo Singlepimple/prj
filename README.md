@@ -13,7 +13,7 @@ All projects are presented in the form of iPython Notebooks and readme markdown 
 | [A/B testing](https://github.com/Singlepimple/prj/tree/python-skills/A-B%20tests)  | First task was to prioritize hypotheses and separate our clients in two groups.Then we have to understand the difference between conversion and average bill of our two groups.Next thing was to define the result of a/b testing and realise whether we should stop or continue test after reaching statistical significance.  |pandas,numpy,scipy, matplotlib.pyplot,seaborn|
 | [Statistical analysis](https://github.com/Singlepimple/prj/blob/python-skills/Statistical%20research/Statistic%20research.ipynb) | In this project I have analised two different tariffs in a whatever telecom to offer a better strategy to push the better one and fix another. To handle it i used my knowledge about statistics and checked distribution of tarriffs and types of distribution so that i could chosse appropriate tools to prove my statistical research.After that i setup hypotheses:Null Hypothesis is average bill is equal of these tow tariffs and Alternative(H1)-that they are different.Then compared average bills between these two tariffs with statistical significance=0.5 and p-value proved that my null hypothesis can't be rejected   |pandas,scipy,numpy,matplotlib |
 | ------------- | ------------- |-------------|
-| Content Cell  | Content Cell  |Content Cell |
+| [Cohort analysis](https://github.com/Singlepimple/prj/tree/python-skills/Cohort%20Analysis)  | Content Cell  |Content Cell |
 | ------------- | ------------- |-------------|
 | Content Cell  | Content Cell  |Content Cell |
 
