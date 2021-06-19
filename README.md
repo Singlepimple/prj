@@ -1,2 +1,2 @@
-
-В этом репозитории распложены проекты,выполненные мной(Николаем Зинкиным) в  jupyter notebook
+# Yandex.Praktikum Data analysis projects
+========================
