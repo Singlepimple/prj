@@ -9,7 +9,7 @@ All projects are presented in the form of iPython Notebooks and readme markdown 
 
 | Project | Description |libraries |
 | ------------- | ------------- |-------------|
-| Content Cell  | Content Cell  |Content Cell |
+| xploratory Data Analysis (EDA)| Content Cell  |Content Cell |
 | ------------- | ------------- |-------------|
 | Content Cell  | Content Cell  |Content Cell |
 | ------------- | ------------- |-------------|
