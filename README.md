@@ -7,7 +7,7 @@ All projects are presented in the form of iPython Notebooks and readme markdown 
 
 
 
-| First Header  | Second Header |Third header |
+| Project | Description |libraries |
 | ------------- | ------------- |-------------|
 | Content Cell  | Content Cell  |Content Cell |
 
