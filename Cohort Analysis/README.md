@@ -1,10 +1,17 @@
-# Project
-## Cohort analysis
-1.Когортный анализ для перераспределения расходов на рекламный трафик :
-- 1)Подготовил данные к анализу
-- 2)Расчет DAU/WAU/MAU
-- 3)Расчёт коэффициента удержания(Retention Rate) по когортам
-- 4)Вычисление LTV пользователя когортным анализом
-- 5)САС одного покупателя
-- 6)ROMI по когортам в зависимости от источника трафика
-- 7)Анализ выгодных/невыгодных источников трафика.
+# Cohort analysis
+Task
+- As analyst i had to find less profitable sources of the Intternet traffic 
+Description:
+
+Digital agency asked to check weak traffic sources to reduce costs on them so that we could reallocate the budget.We agreed to check all metrics and divide users by cohorts.Then I estimated KPI's such as Lifetime value(LTV), custumer aquisition cost (CAC), Retention rate, Return on money investments (ROMI).
+All these operations were divided in several steps such as :
+- data preprocessing
+- DAU/WAU/MAU calculations
+- Retention Rate calculation in cohorts
+- Cohort analysis to calculate LTV
+- САС 
+- ROMI in cohorts and grouped by traffic source
+- Analysis of profitable and non-profitable sources
+
+Librries:
+- pandas,numpy,scipy,matplotlib,seaborn
