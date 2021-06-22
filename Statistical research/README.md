@@ -1,6 +1,6 @@
 # Statistical research
 Task
-- Define the best  tariff of two offered with the help of statistical research
+- Define the best  tariff between two offered with the help of statistical research
 
 Description:
 
