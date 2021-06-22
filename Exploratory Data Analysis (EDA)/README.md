@@ -10,4 +10,4 @@ Libraries
 
 Status
 
--in progress to add machine learning, particularly linear regression model to define float figure of flat price based on these features
+-in progress to add machine learning, particularly linear regression model to define float number of flat price based on these features
