@@ -1,24 +1,11 @@
 # A/B test
 Project
- 
-# In this project we provided A-B test in ecomm:
-## To do this i have managed such things as 
+ Task
+- Choose hypohesis to increase income  
+ Description:
+- prioritizing hypotheses and separating our clients in two groups.Then we have to understand the difference between conversion and average bill of these two groups.Next step  was to define the result of a/b testing and realise whether we should stop or continue test after reaching statistical significance.
 
-- Coming up with hypothesis
-- Data cultivation
-- Checked how our traffic is being separated
-- Builded cummulative sum,average bill,conversion of two groups
-- Researched groth rate of general conversion
-- Defined percentiles to reveal anomalies
-- statistical significance was calculated between raw and cleaned data
-- Conlusions
-
-
-1)Определение гипотезы
-2)Обработка данных
-3)Проверил деление трафика по группам
-4)Построил графики кумулятивной выручки, среднего чека, конверсий 2-ух групп
-5)Изучил относительный прирост конверсии
-6)Определил перцентили для выявления аномальных значений
-7)Считал статистическую значимость различий метрик по сырым и очищенным данным
-8)Сформулировал выводы по качеству проведения теста и принятию решений ,основываясь на его результатах.
+ Used libraries
+ - pandas,numpy,scipy, matplotlib.pyplot,seaborn
+ Status
+ -Completed
