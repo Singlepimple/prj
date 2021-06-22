@@ -1,2 +1,8 @@
-# Projects
- Diffirent types of Python analysis
+# Exploratory Data Analysis (EDA)
+
+
+
+
+
+
+- Libraries :pandas,numpy,matplotlib,seaborn
